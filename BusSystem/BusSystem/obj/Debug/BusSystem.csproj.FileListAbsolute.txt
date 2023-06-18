@@ -1,0 +1,7 @@
+D:\oop\projects\BusSystem\BusSystem\bin\Debug\BusSystem.exe.config
+D:\oop\projects\BusSystem\BusSystem\bin\Debug\BusSystem.exe
+D:\oop\projects\BusSystem\BusSystem\bin\Debug\BusSystem.pdb
+D:\oop\projects\BusSystem\BusSystem\obj\Debug\BusSystem.csproj.AssemblyReference.cache
+D:\oop\projects\BusSystem\BusSystem\obj\Debug\BusSystem.csproj.CoreCompileInputs.cache
+D:\oop\projects\BusSystem\BusSystem\obj\Debug\BusSystem.exe
+D:\oop\projects\BusSystem\BusSystem\obj\Debug\BusSystem.pdb

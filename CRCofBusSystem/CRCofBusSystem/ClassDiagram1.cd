@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="BL Folder&#xD;&#xA;">
+    <Position X="3.771" Y="9.063" Height="0.382" Width="1.075" />
+  </Comment>
+  <Comment CommentText="DL Folder&#xD;&#xA;">
+    <Position X="3.674" Y="14.702" Height="0.368" Width="0.881" />
+  </Comment>
+  <Comment CommentText="UI Folder&#xD;&#xA;">
+    <Position X="4.813" Y="26.194" Height="0.354" Width="0.985" />
+  </Comment>
+  <Comment CommentText="Bus has aggregation with Staff(indirectly admin) and Composition with Customer">
+    <Position X="1.049" Y="7.824" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="CRCofBusSystem.Person">
+    <Position X="3.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAACEAAAAQAAgAAAAAABAAAAAFEAACgAAAwgAABAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.Staff">
+    <Position X="6.75" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIIAEAAAQQAgAAAARAAgAAAAAQBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.Customer">
+    <Position X="0.5" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAIAEABAAAAAEAAAAAAAAABAAIAAIAAAAAAhI=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.Driver">
+    <Position X="6.75" Y="8.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAAAAAAEAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Driver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.Bus">
+    <Position X="1" Y="8.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAkAAEAABAgAAABAAAABgABBAAAEAAQAAAA=</HashCode>
+      <FileName>Bus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.BusDL">
+    <Position X="1" Y="13.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACgAAACAAAQAAAAAAAAAAAAAAgAABAAAAABAAgIAAg=</HashCode>
+      <FileName>BusDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.StaffDL">
+    <Position X="6" Y="14" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAACAAAAAQAAAAQAIAAAIABAIAAg=</HashCode>
+      <FileName>StaffDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.DriverDL">
+    <Position X="6.25" Y="17.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAACAAABAQAAAAAgIIAAAABAIAAg=</HashCode>
+      <FileName>DriverDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.CustomerDL">
+    <Position X="1.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAgAAAQQAgAAAAAAAAgAAAIAAAAAgAAAABAAAg=</HashCode>
+      <FileName>CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.PersonDL">
+    <Position X="3.75" Y="20.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAQAAAAAAAABAAAQACAAAAAAEAAABAIAAg=</HashCode>
+      <FileName>PersonDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.AdminUI">
+    <Position X="1.75" Y="24.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQIAQAAAAEAAAAAAAIACAAIABAABgAAAAAAAAA=</HashCode>
+      <FileName>AdminUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.CustomerUI">
+    <Position X="6" Y="24.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>kAACABAAgABQBEgIABACAAAAAAAIgAACAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.BusUI">
+    <Position X="1.75" Y="28.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IgAgAAAAAAAAAAAgAAAAABCAIACAAAAAAAAhAAAAAAA=</HashCode>
+      <FileName>BusUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.DisplayUI">
+    <Position X="6" Y="29" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAQAAAAAAAAAAAIAAAAAAAAAgAAACA=</HashCode>
+      <FileName>DisplayUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCofBusSystem.PersonUI">
+    <Position X="4.25" Y="31.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAkAAAAAAAAABAAAAAEAABAAAAAAAAAA=</HashCode>
+      <FileName>PersonUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

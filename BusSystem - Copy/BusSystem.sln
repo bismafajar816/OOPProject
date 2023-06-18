@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusSystem", "BusSystem\BusSystem.csproj", "{C21E11C9-4CBC-48AC-A279-83FE0EF89FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C21E11C9-4CBC-48AC-A279-83FE0EF89FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21E11C9-4CBC-48AC-A279-83FE0EF89FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21E11C9-4CBC-48AC-A279-83FE0EF89FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21E11C9-4CBC-48AC-A279-83FE0EF89FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5E8C0F6-39F9-4A26-A668-4FA003EFB9EF}
+	EndGlobalSection
+EndGlobal

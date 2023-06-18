@@ -1,0 +1,3 @@
+alii,987654,Customer,jhgfd,hgffg,001,1500,1
+point,98765,Customer,0987654,hygtfr,001,1500,3
+ayesha,098765,Customer,098765,jhygtfr,001,1500,5

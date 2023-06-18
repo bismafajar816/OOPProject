@@ -1,0 +1,7 @@
+bisma,12345,Admin,09765433678,hgfdd
+fajar,1234567,Admin,09875672,kjhgfghj
+hania,12345,Customer,0987654,hgfdfghj
+bisma,12345,Admin,09765433678,hgfdd
+fajar,1234567,Admin,09875672,kjhgfghj
+hania,12345,Customer,0987654,hgfdfghj
+hamna,12345,Admin,09876,lkjhg
